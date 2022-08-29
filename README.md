@@ -12,13 +12,13 @@
  clone the repository
 
 ###  Respository
-git clone https://github.com/josepootargaez/backend-project-node.git
+     git clone https://github.com/josepootargaez/backend-project-node.git
 
 
 ## Config
 
 ### install packages
- npm install
+    npm install
 
 ### create dabase in PSQL with script psql.sql
 
