@@ -25,6 +25,15 @@ git clone https://github.com/josepootargaez/backend-project-node.git
 ### create the file .env for windows and .env.example for linux
 
 ### config the conection database in the .env
+#Port Server
+PORT_SERVER= 3000
+
+#Connection Database
+DB_USER=postgres
+DB_PASSWORD=post2020
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=list
 
 
 
