@@ -1,5 +1,5 @@
 # backend-project-node
-   This project has a crud of list users
+   This project has a crud of list users with database and store procedure PSQL
 
 ## Technical specifications of the environment
 
