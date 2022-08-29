@@ -1,10 +1,11 @@
 # backend-project-node
-   This project has a crud of list users with database and store procedure PSQL
+   This project has a crud of list users with database and store procedure PSQL also with unit test.
 
 ## Technical specifications of the environment
 
 * **NODE** - `v14.16.0`
 * **POSTGRESQL** - `v13.8.0`
+* **Jest** - `v29.0.1`
 
 
 ## Installation
