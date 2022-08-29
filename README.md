@@ -1,1 +1,34 @@
 # backend-project-node
+   This project has a crud of list users
+
+## Technical specifications of the environment
+
+* **NODE** - `v14.16.0`
+* **POSTGRESQL** - `v13.8.0`
+
+
+## Installation
+ clone the repository
+
+###  Respository
+git clone https://github.com/josepootargaez/backend-project-node.git
+
+
+## Config
+
+### install packages
+ npm install
+
+### create dabase in PSQL with script psql.sql
+
+### create the file .env for windows and .env.example for linux
+
+### config the conection database in the .env
+
+
+
+
+## optional
+ ### run unit test
+    npm test
+
