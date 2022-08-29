@@ -5,7 +5,7 @@
 
 * **NODE** - `v14.16.0`
 * **POSTGRESQL** - `v13.8.0`
-* **Jest** - `v29.0.1`
+* **JEST** - `v29.0.1`
 
 
 ## Installation
