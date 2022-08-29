@@ -35,7 +35,8 @@
     DB_PORT=5432
     DB_NAME=list
 
-
+ ### Run application port 3000
+    npm start
 
 
 ## optional
